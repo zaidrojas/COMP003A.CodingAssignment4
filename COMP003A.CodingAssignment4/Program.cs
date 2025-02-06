@@ -2,7 +2,7 @@
  Author: Zaid Rojas
  Course: COMP-003A
  Faculty: Jonathan Cruz
- Purpose: Inventory management application with a minimum of 1
+ Purpose: inventory management application with a minimum of 1
 */
 
 using System.Reflection.Emit;
